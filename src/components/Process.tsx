@@ -5,7 +5,7 @@ const WA_LINK = "https://wa.me/message/N67CCCESBR3SO1";
 const steps = [
   {
     title: "Me escribes por WhatsApp",
-    desc: "Sin formularios, sin videollamadas. Me cuentas tu situación, tus objetivos y tus limitaciones. En menos de 24h te respondo con todo lo que necesito saber.",
+    desc: "Sin formularios. Me cuentas tu situación, tus objetivos y tus limitaciones. En menos de 24h te respondo con todo lo que necesito saber.",
     badge: null,
   },
   {
